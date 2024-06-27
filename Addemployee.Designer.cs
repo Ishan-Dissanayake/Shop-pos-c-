@@ -1,7 +1,8 @@
 ﻿namespace store
 {
     partial class Addemployee
-    {
+    { 
+        ///vv
         /// <summary>
         /// Required designer variable.
         /// </summary>
